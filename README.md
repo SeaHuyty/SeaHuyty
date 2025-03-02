@@ -22,10 +22,9 @@ Welcome to my GitHub! I'm always eager to learn, create, and explore new ideas. 
 
 # 📊 GitHub Stats:
 <div align="center">
-<!-- Add your GitHub stats images or content here -->
-![](https://github-readme-stats.vercel.app/api?username=SeaHuyty&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeaHuyty&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=SeaHuyty&theme=default&hide_border=false)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
