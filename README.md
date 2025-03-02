@@ -1,5 +1,5 @@
 ![Demo](https://raw.githubusercontent.com/SeaHuyty/SeaHuyty/main/dp2kuk914o9y_gif%20(1731%C3%97560).gif)
-# 💫 About Me:
+# 💫 Hi There:
 <div align="center">
 Welcome to my GitHub! I'm always eager to learn, create, and explore new ideas. Whether it's building something from scratch or improving existing projects, I enjoy taking on challenges and finding creative solutions.<br><br>Feel free to explore my work, and let’s connect! 🚀
 </div>
