@@ -22,10 +22,8 @@ Welcome to my GitHub! I'm always eager to learn, create, and explore new ideas. 
 
 # 📊 GitHub Stats:
 <div align="center">
-  <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SeaHuyty&show_icons=true&theme=default" alt="GitHub Stats" style="width:50%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeaHuyty&theme=default" alt="GitHub Streak" style="width:50%" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=SeaHuyty&show_icons=true&theme=default" alt="GitHub Stats" style="width:50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeaHuyty&theme=default" alt="GitHub Streak" style="width:50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaHuyty&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
