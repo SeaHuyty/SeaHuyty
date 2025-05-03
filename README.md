@@ -1,6 +1,5 @@
 ![Demo](https://raw.githubusercontent.com/SeaHuyty/SeaHuyty/main/dp2kuk914o9y_gif%20(1731%C3%97560).gif)
 
-# 📊 GitHub Stats:
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=SeaHuyty&show_icons=true&theme=default" alt="GitHub Stats" style="height: 170px; width: auto;" />
